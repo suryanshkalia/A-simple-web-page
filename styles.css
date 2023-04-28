@@ -38,6 +38,7 @@ body{
     flex-wrap: wrap;
     flex: 1;
     gap: 38px;
+    color: black;
 }
 
 .child-1{
@@ -73,7 +74,7 @@ figcaption{
 }
 
 #frame-1  h1{
-    color: #f9f1f8;
+    color: #1f2937;
     font-size: 48px;
     font-weight: 900;
 }
@@ -90,7 +91,7 @@ figcaption{
     flex-wrap: wrap;
 }
 .eat-icecream > p{
-    color: lightgrey;
+    color: #040404;
 }
 
 li{
