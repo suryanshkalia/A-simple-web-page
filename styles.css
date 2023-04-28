@@ -152,6 +152,10 @@ li{
     border-radius: 16px;
 }
 
+.child-4 p{
+    margin-top: -16px;
+}
+
 button{
     background-color: #3882f6;
     color: white;
