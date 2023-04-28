@@ -108,6 +108,7 @@ li{
     width: 100px;
     height: auto;
     padding: 16px;
+    border-radius: 50%;
 }
 
 #frame-3{
