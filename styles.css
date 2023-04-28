@@ -18,6 +18,7 @@ body{
     display: flex;
     justify-content: space-between;
     position: fixed;
+    top: 0;
     margin-bottom: auto;
 }
 
@@ -98,6 +99,7 @@ figcaption{
 }
 .eat-icecream > p{
     color: #040404;
+    margin-top: -24px;
 }
 
 li{
