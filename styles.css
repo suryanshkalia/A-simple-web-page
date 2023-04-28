@@ -107,4 +107,13 @@ a{
     padding: 16px;
 }
 
+#frame-3{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
+.child-3{
+  width: 50%;
+  color: lightgrey;
+}
