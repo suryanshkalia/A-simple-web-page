@@ -29,6 +29,7 @@ body{
 
 .frame{
     display: flex;
+    margin-top: 16px;
 }
 
 #frame-1{
