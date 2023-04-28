@@ -13,9 +13,12 @@ body{
 }
 
 .navigation{
+    width: 100%;
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
+    position: fixed;
+    margin-bottom: auto;
 }
 
 .navigation > .links{
@@ -39,6 +42,7 @@ body{
     flex: 1;
     gap: 38px;
     color: black;
+    margin-top: 100px;
 }
 
 .child-1{
@@ -162,6 +166,8 @@ button{
     padding: 16px;
     color: #efe7eb;
 }
+
+
 
 .footer  a{
     color: #efe7eb;
