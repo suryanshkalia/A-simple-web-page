@@ -70,7 +70,7 @@ figcaption{
     font-weight: bold;
 }
 
-h1{
+#frame-1  h1{
     color: #f9f1f8;
     font-size: 48px;
     font-weight: 900;
@@ -130,5 +130,9 @@ a{
 }
 
 .child-4{
-    border: 1px solid;
+    width: 50%;
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
