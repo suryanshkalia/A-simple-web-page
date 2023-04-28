@@ -135,4 +135,13 @@ a{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    color: white;
+}
+
+button{
+    background-color: #3882f6;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
 }
