@@ -30,6 +30,10 @@ li{
     list-style-type: none;
 }
 
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
 #logo{
     width: 100px;
     height: auto;
