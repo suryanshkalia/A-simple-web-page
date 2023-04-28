@@ -55,6 +55,7 @@ body{
     background-color: white;
     flex-direction: column;
     text-align: center;
+    background-color: #1f2937;
 }
 
 #frame-2 h1{
@@ -155,4 +156,10 @@ button{
     align-items: center;
     background-color: #1f2937;
     padding: 16px;
+    color: #efe7eb;
+}
+
+.footer  a{
+    color: #efe7eb;
+    text-decoration: none;
 }
