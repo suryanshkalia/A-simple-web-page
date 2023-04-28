@@ -35,10 +35,18 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1 1 auto;
 }
 
 #gintoki{
-    width: 100px; 
+    width: 300px;
+    height: auto;
+}
+
+.eat-icecream{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 li{
