@@ -26,6 +26,10 @@ body{
     gap: 16px;
 }
 
+li{
+    list-style-type: none;
+}
+
 #logo{
     width: 100px;
     height: auto;
