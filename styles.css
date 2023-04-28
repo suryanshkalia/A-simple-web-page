@@ -31,11 +31,11 @@ body{
     display: flex;
 }
 
-/*#frame-1{
+#frame-1{
     display: flex;
     justify-content: center;
     align-items: center;
-}*/
+}
 
 #gintoki{
     width: 100px; 
