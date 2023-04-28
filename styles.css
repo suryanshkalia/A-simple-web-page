@@ -173,7 +173,9 @@ button{
     color: #efe7eb;
 }
 
-
+.footer p{
+    margin: 0 5px;
+}
 
 .footer  a{
     color: #efe7eb;
