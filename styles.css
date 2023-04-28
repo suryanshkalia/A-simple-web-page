@@ -47,7 +47,7 @@ body{
 
 .random-info{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -58,10 +58,18 @@ body{
     text-align: center;
 }
 
+#frame-2 h1{
+    color: #1f2937;
+    font-weight: 900;
+}
 
 #fig-img{
-    width: 300px;
+    width: 400px;
     height: auto;
+}
+
+figcaption{
+    font-weight: bold;
 }
 
 h1{
