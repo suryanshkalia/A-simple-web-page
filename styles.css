@@ -9,6 +9,7 @@ body{
     margin: 0px;
     display: flex;
     flex-direction: column;
+    flex: 1;
 }
 
 .navigation{
@@ -95,7 +96,7 @@ li{
     list-style-type: none;
 }
 
-a{
+.navigation  a{
     color:aliceblue;
     text-decoration: none;
 }
@@ -127,6 +128,7 @@ a{
 #frame-4{
     justify-content: center;
     align-items: center;
+    padding: 50px;
 }
 
 .child-4{
@@ -144,4 +146,10 @@ button{
     border: 1px solid white;
     border-radius: 5px;
     padding: 10px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
