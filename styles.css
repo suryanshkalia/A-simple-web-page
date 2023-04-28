@@ -67,6 +67,7 @@ body{
 #fig-img{
     width: 400px;
     height: auto;
+    border-radius: 16px;
 }
 
 figcaption{
@@ -119,7 +120,7 @@ li{
 .child-3{
   width: 50%;
   color: #1f2937;
-  font-size: 36px;
+  font-size: 24px;
 }
 
 .the-man{
