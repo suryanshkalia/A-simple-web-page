@@ -29,7 +29,6 @@ body{
 
 .frame{
     display: flex;
-    margin-top: 16px;
 }
 
 #frame-1{
@@ -111,9 +110,17 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #efe7eb;
+    padding: 50px;
 }
 
 .child-3{
   width: 50%;
-  color: lightgrey;
+  color: #1f2937;
+  font-size: 36px;
+}
+
+.the-man{
+    display: flex;
+    justify-content: flex-end;
 }
